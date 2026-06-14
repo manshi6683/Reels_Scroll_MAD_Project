@@ -78,7 +78,7 @@ app
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/reels-app.git
+git clone https://github.com/manshi6683/Reels_Scroll_MAD_Project.git
 ```
 
 ### Open Project
@@ -108,31 +108,3 @@ Shift + F10
 - Android SDK 24+
 - Gradle 8+
 
----
-
-## 🎯 Future Enhancements
-
-- ❤️ Like functionality
-- 💬 Comments section
-- 🔊 Volume controls
-- 📤 Share reels
-- ☁️ Firebase integration
-- 🌐 Online video streaming
-- 👤 User profiles
-- 🔍 Search feature
-
----
-
-## 👨‍💻 Author
-
-**Manshi**
-
-Android Developer | B.Tech Student
-
----
-
-## 📄 License
-
-This project is created for learning and educational purposes.
-
-MIT License © 2026 Manshi
