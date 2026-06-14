@@ -73,16 +73,6 @@ app
 
 ---
 
-## 📸 Screenshots
-
-Add your screenshots here:
-
-| Home Feed | Video Playback |
-|------------|----------------|
-| Screenshot 1 | Screenshot 2 |
-
----
-
 ## ⚙️ Installation
 
 ### Clone Repository
