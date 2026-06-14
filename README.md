@@ -6,7 +6,6 @@ A modern Android application that delivers a smooth vertical video scrolling exp
 
 - 🎥 Full-screen vertical video playback
 - 🔄 Seamless scrolling using RecyclerView
-- 📌 Snap-to-video behavior with PageSnapHelper
 - ▶️ Automatic video playback
 - ⏸️ Pause previous video when scrolling
 - 📂 Local video storage using Raw Resources
