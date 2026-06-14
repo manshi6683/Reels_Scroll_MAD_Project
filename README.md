@@ -108,3 +108,10 @@ Shift + F10
 - Android SDK 24+
 - Gradle 8+
 
+---
+
+# ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
